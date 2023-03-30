@@ -12,7 +12,7 @@ A partir do arquivo log_completo.txt o programa é executado.
 
 - O arquivo log_completo.txt é a conversão do seprador \u0001 para ; do arquivo original fix.051.incr.log
 - O arquivo registrosComTag48.csv é o arquivo que contem toda a serie dos instrumentos 3809779, 3803947, 3809688, 3809654 e 3805660
-- 0 arquivo registrosPorSecIDSelecionado.csv é o arquivo gerado somente com o intrumento selecionado no inicio do programa no prompt conforme opções abaixo:
+- O arquivo registrosPorSecIDSelecionado.csv é o arquivo gerado somente com o intrumento selecionado no inicio do programa no prompt conforme opções abaixo:
     - 1 - 3809779
     - 2 - 3803947
     - 3 - 3809688
