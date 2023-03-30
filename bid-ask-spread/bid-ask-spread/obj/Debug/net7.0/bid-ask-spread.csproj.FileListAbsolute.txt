@@ -1,0 +1,17 @@
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/bin/Debug/net7.0/bid-ask-spread
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/bin/Debug/net7.0/bid-ask-spread.deps.json
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/bin/Debug/net7.0/bid-ask-spread.runtimeconfig.json
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/bin/Debug/net7.0/bid-ask-spread.dll
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/bin/Debug/net7.0/bid-ask-spread.pdb
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.csproj.AssemblyReference.cache
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.AssemblyInfoInputs.cache
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.AssemblyInfo.cs
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.csproj.CoreCompileInputs.cache
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.dll
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/refint/bid-ask-spread.dll
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.pdb
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.genruntimeconfig.cache
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/ref/bid-ask-spread.dll
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/bin/Debug/net7.0/OFX-Tool.dll
+/Users/matheus/Projects/bid-ask-spread/bid-ask-spread/obj/Debug/net7.0/bid-ask-spread.csproj.CopyComplete

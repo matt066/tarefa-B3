@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FA75C8ED-F2B9-4A15-9AE1-B5102AC76F20}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bid-ask-spread/Program.cs">
+    <Files>
+      <File FileName="bid-ask-spread/Program.cs" Line="19" Column="1" />
+      <File FileName="bid-ask-spread/MaiorPrecoCompra.cs" Line="99" Column="24" />
+      <File FileName="bid-ask-spread/Spread.cs" Line="26" Column="71" />
+      <File FileName="bid-ask-spread/FormataArquivo.cs" Line="13" Column="115" />
+      <File FileName="bid-ask-spread/ArquivosCSV/registrosPorSecIDSelecionado.csv" Line="31" Column="7" />
+      <File FileName="bid-ask-spread/ArquivosCSV/log_completo2.txt" Line="5" Column="141" />
+      <File FileName="bid-ask-spread/ArquivosCSV/fix.051.incr.log" Line="5" Column="143" />
+      <File FileName="bid-ask-spread/FileFixToTxt.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bid-ask-spread" expanded="True">
+            <Node name="bid-ask-spread" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>maxBid</Value>
+          <Value>minAsk</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bid-ask-spread PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
